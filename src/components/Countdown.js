@@ -59,6 +59,5 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     padding: spacing.xl,
     fontWeight: 'bold',
-    
   },
 });

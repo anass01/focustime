@@ -43,7 +43,7 @@ const styles = StyleSheet.create({
 
   historyItem: (status) => ({
     color: status>1? 'gray' : 'black',
-    fontWeight:status>1? 'light' : 'Bold',
+    fontWeight:status>1? '100' : 'bold',
     fontSize:fontSizes.md,
   }),
   title:{
